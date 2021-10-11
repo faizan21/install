@@ -7,4 +7,4 @@ Bash. Please migrate to the following command:
 
 EOS
 
-Kernel.exec "/bin/bash", "-c", '/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"'
+Kernel.exec "/bin/bash", "-c", '/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/faizan21/install/67e80b1dbecd764618a85ed2f3b480d475f94237/install.sh)"'
